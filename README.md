@@ -29,3 +29,5 @@ Our methodology breaks down to 3 different approaches:
 
 
 ## Neural Network with embedded optimizer
+
+<img width="945" alt="image" src="https://github.com/kyle1373/ece228-project/assets/59634395/54f4f2fb-5ee6-4e27-8d02-ca1a9c91d52a">
