@@ -25,5 +25,7 @@ Our methodology breaks down to 3 different approaches:
 
 ## Neural Network with separate optimizer
 
+![NN with separate optimizaer](sample_results/NN_with_separate_optim.png)
+
 
 ## Neural Network with embedded optimizer
