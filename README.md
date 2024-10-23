@@ -1,6 +1,6 @@
 # Portfolio Optimization with Machine Learning
 
-[embed]https://kylewade.dev/stock_portfolio_optimization.pdf[/embed]
+[embed](https://kylewade.dev/stock_portfolio_optimization.pdf)[/embed]
 
 > Yalu Ouyang, Darell Chua, Dirk Xie, Kyle Wade
 
