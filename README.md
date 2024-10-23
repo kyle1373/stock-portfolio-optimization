@@ -1,7 +1,7 @@
 # Portfolio Optimization with Machine Learning
 
-> A ECE 228 Project
->
+[embed]https://kylewade.dev/stock_portfolio_optimization.pdf[/embed]
+
 > Yalu Ouyang, Darell Chua, Dirk Xie, Kyle Wade
 
 
