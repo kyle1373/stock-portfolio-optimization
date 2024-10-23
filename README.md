@@ -1,9 +1,8 @@
 # Portfolio Optimization with Machine Learning
 
-[embed](https://kylewade.dev/stock_portfolio_optimization.pdf)[/embed]
+> By Yalu Ouyang, Darell Chua, Dirk Xie, Kyle Wade
 
-> Yalu Ouyang, Darell Chua, Dirk Xie, Kyle Wade
-
+View the paper here: https://kylewade.dev/stock_portfolio_optimization.pdf  
 
 In our project, we set out to tackle the problem of portfolio optimization - changing the weighting consituent stocks for maximum return on investment - through the application of machine learning techniques.
 
